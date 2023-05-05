@@ -1,9 +1,8 @@
 # Table of Contents
-
-1. [Project Apollo](#project-apollo)
-2. [Project Description](#project-description)
-3. [Installation](#installation)
-4. [Contributors](#contributors)
+1. [Project Apollo](#1-project-apollo)
+2. [Project Description](#2-project-description)
+3. [Installation](#3-installation)
+4. [Contributors](#4-contributors)
 
 ## 1. Project Apollo
 
