@@ -32,3 +32,30 @@ The challanges that we faced are given below:
 - The team members had some problems regarding the markdown syntax.
 - The team faced some issues in selecting the project that they will work on.
   <br>
+
+## 3. Installation
+
+To install this project, follow these steps:
+
+1. Get a free API key at this [link]().
+
+2. Clone this repository to your local machine using 
+**`git clone https://github.com/samin-irtiza-bjit/Apollo.git`**. 
+
+3. Navigate to the project directory using **`cd Apollo`**. 
+
+4. Run the command **`npm install`** to install the necessary dependencies.
+
+5. Enter your API in config.js 
+**`const API_KEY = 'ENTER YOUR API'`**;
+
+## 4. Contributors
+
+Thank you to the following contributors who have helped to improve this project:
+
+| **Name**      | **Email**                     |**Phone**  |
+| :------------ |:------------------------------|:----------|
+| Samin Irtiza  | samin.irtiza@bjitacademy.com  |01612345678|
+| Fazle Mubin   | fazle.mubin@bjitacademy.com   |01712345678|
+| Abir Hossain  | abir.hossain@bjitacademy.com  |01812345678|
+| Nazmul Islam  | nazmul.islam@bjitacademy.com  |01912345678|
