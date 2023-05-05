@@ -11,6 +11,7 @@ This is a project to practice git and GitHub. Project Apollo aims to achieve hig
 <img src="Apollo.jpg" height=315 width=600>
 
 <br>
+
 ## 2. Project Description
 
 Apollo is a project made for getting the highest marks in this exam. The project helps the members to acieve the top marks in the exam without getting any minus marking and to make working life easier for them.<br>
