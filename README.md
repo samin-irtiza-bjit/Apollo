@@ -47,3 +47,14 @@ To install this project, follow these steps:
 
 5. Enter your API in config.js 
 **`const API_KEY = 'ENTER YOUR API'`**;
+
+## 4. Contributors
+
+Thank you to the following contributors who have helped to improve this project:
+
+| **Name**      | **Email**                     |**Phone**  |
+| :------------ |:------------------------------|:----------|
+| Samin Irtiza  | samin.irtiza@bjitacademy.com  |01612345678|
+| Fazle Mubin   | fazle.mubin@bjitacademy.com   |01712345678|
+| Abir Hossain  | abir.hossain@bjitacademy.com  |01812345678|
+| Nazmul Islam  | nazmul.islam@bjitacademy.com  |01912345678|
